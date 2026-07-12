@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
