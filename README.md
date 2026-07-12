@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Dynamic Programming
 |  |
 | ------- |
