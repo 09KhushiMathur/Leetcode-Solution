@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2187-minimum-time-to-complete-trips](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 ## Two Pointers
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
 | ------- |
@@ -70,12 +73,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+## String
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
