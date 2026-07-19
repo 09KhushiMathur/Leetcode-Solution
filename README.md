@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0502-ipo) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [2187-minimum-time-to-complete-trips](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -72,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0502-ipo) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
