@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2187-minimum-time-to-complete-trips](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 ## Dynamic Programming
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -116,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
