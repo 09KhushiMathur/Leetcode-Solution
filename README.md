@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
 |  |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
