@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
 | [0162-find-peak-element](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -147,4 +148,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
