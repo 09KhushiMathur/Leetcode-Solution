@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0283-move-zeroes) |
 ## Binary Search
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 ## Trie
