@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0713-subarray-product-less-than-k](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
+| [0977-squares-of-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
