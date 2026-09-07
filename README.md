@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
