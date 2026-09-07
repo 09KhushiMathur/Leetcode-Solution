@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0047-permutations-ii) |
+| [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0502-ipo) |
@@ -179,5 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
