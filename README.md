@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
