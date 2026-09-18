@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0216-combination-sum-iii) |
 | [0283-move-zeroes](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
