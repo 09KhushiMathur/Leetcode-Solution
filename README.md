@@ -179,10 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
 | [0216-combination-sum-iii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0216-combination-sum-iii) |
+| [0401-binary-watch](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
+| [0401-binary-watch](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0401-binary-watch) |
 ## Sliding Window
 |  |
 | ------- |
