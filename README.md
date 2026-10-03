@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0078-subsets) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0162-find-peak-element](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
