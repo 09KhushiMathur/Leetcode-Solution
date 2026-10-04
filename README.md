@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
@@ -291,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Bracket Sequences
 |  |
