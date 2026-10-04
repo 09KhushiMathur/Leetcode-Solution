@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [1191-k-concatenation-maximum-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/1191-k-concatenation-maximum-sum) |
 ## Greedy
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0502-ipo) |
+| [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 ## Prefix Sum
 |  |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0767-reorganize-string) |
 ## Trie
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 ## Tree
 |  |
 | ------- |
@@ -292,4 +296,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
