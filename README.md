@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/09KhushiMathur/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
